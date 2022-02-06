@@ -1,0 +1,4 @@
+GroupId,GroupName,VpcId,Description,OwnerId,InboundRulesCount,OutboundRulesCount,Tags
+sg-008e3c73ce57ec5b9,launch-wizard-1,vpc-09916bdd2089a031a,launch-wizard-1 created 2022-02-06T13:31:25.080+05:30,693347028122,1,1,
+sg-08e7b66ae835fcef9,FIRST,vpc-09916bdd2089a031a,launch-wizard-2 created 2022-02-06T13:50:59.206+05:30,693347028122,5,1,
+sg-0c1660deca10abad1,default,vpc-09916bdd2089a031a,default VPC security group,693347028122,1,1,
